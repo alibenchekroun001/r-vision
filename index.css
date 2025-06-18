@@ -4,3 +4,9 @@
     height: 200px;
     background-color: brown;
 }
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
